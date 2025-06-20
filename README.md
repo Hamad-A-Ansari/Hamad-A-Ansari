@@ -1,7 +1,7 @@
 
  
 <div align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=30&duration=1000&pause=1500&center=true&vCenter=true&width=500&color=a9d8ff&height=100&lines=Hi++there++%F0%9F%91%8B+.+.+.;I'm+Hamad+Ahmad+Ansari+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=30&duration=1000&pause=1500&center=true&vCenter=true&width=500&color=a9d8ff&height=100&lines=Hi++there++%F0%9F%91%8B+.+.+.;I'm+Hamad++Ansari+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
 </div>
 <br>
 <br>
