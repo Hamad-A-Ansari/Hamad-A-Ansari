@@ -5,6 +5,9 @@
 </div>
 <br>
 <br>
+
+## My Tech Stack
+
 <div align="center">
  <table>
     <tr>
@@ -12,7 +15,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamad-A-Ansari&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4">
       </td>
       <td>
-          <div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=100000&center=true&vCenter=true&width=500&color=89d6fb&height=100&lines=My+Tech+Stack"></div>
        <div>
         &nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />&nbsp;
         </p> 
