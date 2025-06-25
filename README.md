@@ -16,7 +16,7 @@
        <div>
         &nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />&nbsp;&nbsp;
         </p> 
-          &nbsp;&nbsp;;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />&nbsp;&nbsp;
+          &nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />&nbsp;&nbsp;
         </p>
          &nbsp;&nbsp; <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />&nbsp;&nbsp;
         </p>
