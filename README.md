@@ -14,13 +14,13 @@
       <td>
           <div><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=100000&center=true&vCenter=true&width=500&color=89d6fb&height=100&lines=My+Tech+Stack"></div>
        <div>
-        &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />&nbsp;&nbsp;
         </p> 
-          &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />&nbsp;&nbsp;
         </p>
-         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />&nbsp;&nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp; <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />&nbsp;&nbsp;
         </p>
-        &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />&nbsp;&nbsp;
        </div>
       </td>
     </tr>
