@@ -8,7 +8,7 @@
 
 ## My Tech Stack
 
-<div align="center">
+
  <p>
  <table>
     <tr>
@@ -28,7 +28,7 @@
       </td>
     </tr>
   </table>
-</div>
+
 
 <br>
 
