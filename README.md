@@ -9,6 +9,7 @@
 ## My Tech Stack
 
 <div align="center">
+ <p>
  <table>
     <tr>
       <td>
