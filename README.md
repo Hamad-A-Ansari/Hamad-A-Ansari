@@ -16,15 +16,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamad-A-Ansari&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4">
       </td>
       <td>
-       <div>
-        &nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />&nbsp;
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,javascript,typescript,html,css,python,react" />
         </p> 
-          &nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />&nbsp;
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,next,expo,nodejs,express,tailwind,websocket,socketio,clerk" />
         </p>
-         &nbsp; <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />&nbsp;
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />
         </p>
-        &nbsp;  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />&nbsp;
-       </div>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />
+       
       </td>
     </tr>
   </table>
