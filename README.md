@@ -6,7 +6,9 @@
 <br>
 <br>
 
-<h2>My Tech Stack</h2>
+<div align= "center">
+  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=25&duration=1000&pause=1000000&center=true&vCenter=true&width=500&color=89d6fb&height=100&lines=My+Tech+Stack...">
+</div>
 
 
  <p>
