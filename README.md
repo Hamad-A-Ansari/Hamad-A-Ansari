@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## My Tech Stack
+<h2>My Tech Stack</h2>
 
 
  <p>
@@ -22,8 +22,7 @@
         </p>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,arcjet,api,mysql,postgres,mongodb,appwrite,aws,gcp" />
         </p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />
-       
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,render,vercel,netlify,git,github,docker,postman,jira" />     
       </td>
     </tr>
   </table>
