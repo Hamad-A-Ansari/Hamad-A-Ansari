@@ -1,13 +1,13 @@
 
  
 <div align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=30&duration=1000&pause=1500&center=true&vCenter=true&width=500&color=89d6fb&height=100&lines=Hi++there++%F0%9F%91%8B+.+.+.;I'm+Hamad++Ansari+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=30&duration=1000&pause=1500&center=true&vCenter=true&width=500&color=a9d8ff&height=100&lines=Hi++there++%F0%9F%91%8B+.+.+.;I'm+Hamad++Ansari+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F">
 </div>
 <br>
 <br>
 
 <div align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=25&duration=1000&pause=1000000&center=true&vCenter=true&width=500&color=89d6fb&height=100&lines=My+Tech+Stack...">
+  <img src="https://readme-typing-svg.demolab.com?font=Microma&weight=700&size=25&duration=1000&pause=1000000&center=true&vCenter=true&width=500&color=c0c0c0&height=100&lines=My+Tech+Stack...">
 </div>
 
 
