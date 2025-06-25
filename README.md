@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamad-A-Ansari&theme=dark#gh-light-mode-only&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&card_width=400" style="margin-right: 20px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=Hamad-A-Ansari&theme=dark#gh-dark-mode-only&hide_border=false&card_width=400" />
 </p>
