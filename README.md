@@ -54,11 +54,14 @@
 </p> 
 <br>
 
+
+<!-- 
 ## 🏆 GitHub Trophies
 <div align="center">
 
   <img src="https://github-profile-trophy.vercel.app/?username=Hamad-A-Ansari&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+-->
 
 ## 🔝 Top Contributed Repo
 <div>
